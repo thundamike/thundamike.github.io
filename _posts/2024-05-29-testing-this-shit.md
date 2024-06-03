@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Test post"
+date:   2024-05-29
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post. I'm a goon
+**Hello World** This is your post content.
