@@ -1,25 +1,37 @@
 # for convenience, I'm gonna keep this as publications.yml
 # even though I'm just using it for projects
+# for the authors field, just going to replace with the project description
 
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Suggesting Routes for Strava Users
+    desc: Filter community-generated routes based on distance, elevation gain, and location → We find the most relevant routes. Users are able to login through their Strava account.
+    #conference_short: MICCAI
+    tags: Django, Mapbox API, Strava API, OAuth
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    code: https://github.com/thundamike/create_my_runs
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/strava.png
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: /2024/05/29/testing.html
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Streaming Weather Data With Kafka
+    desc: Follows the producer-consumer model, where the producer is replicated across multiple servers and generates weather data. The consumer continually produces stats through atomic JSON writes and offset checkpointing.
+    #conference_short: CVPR
+    tags: Kafka, Docker, Python, JSON
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/thundamike/kafka-weather
+    #page: /2024/05/29/testing.html
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/weather.png
+
+  - title: Graphics Town - Computer Graphics final course project
+    desc: 3D town showcasing manual vertex manipulation, texture mapping, lighting, and object creation. Built the windmill and fence posts procedurally from Three.JS primitives, implemented all coordinate tranforms for movement, as well as the tractor 3D-movement logic.
+    tags: Three.JS, OpenGL, 3D Geometry, Physics
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/thundamike/graphics/blob/main/wb-final
+    #page: /2024/05/29/testing.html
+    demo: https://www.loom.com/share/a6c908d587e14f33bc3280b781120bd6?sid=bba73254-6043-45ff-8db7-ec5502fa1f8f
+    #notes: Oral Presentation
+    image: ./assets/img/gr.png
+

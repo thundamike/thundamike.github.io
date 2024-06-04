@@ -1,6 +1,6 @@
 # Basic Information 
 title: Michael Kuhn
-position: Recent Graduate in Mathematics & Computer Sciences
+position: Recent Graduate
 affiliation: University of Wisconsin - Madison
 email: mxkuhn7 (at) gmail.com
 
@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/michaelxkuhn/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-#avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
