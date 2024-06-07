@@ -22,6 +22,12 @@
 
 </ul>
 
+<h4 style="margin:0 10px 0;">Large Language Models in Industry</h4>
+
+<ul style="margin:0 0 5px;">
+  <li> In-context learning, "prompt engineering", RAG, and recent research discussion</li>
+  <li> Final project using LangChain to analyze accuracy of different document-chunking methods, imposed by constraints of context windows.<a href="https://github.com/thundamike/chunking"> Link to project.</a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Machine Learning</h4>
 
