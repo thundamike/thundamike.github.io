@@ -67,10 +67,3 @@
   <li>Poisson processes, renewal processes, queueing, branching, discrete and continuous-time Markov models </li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Real Analysis</h4>
-
-<ul style="margin:0 0 5px;">
-  <li> basically what made me realize I don't want to do pure math </li>
-</ul>
-
-
