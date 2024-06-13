@@ -22,6 +22,13 @@
 
 </ul>
 
+<h4 style="margin:0 10px 0;">Robotics</h4>
+
+<ul style="margin:0 0 5px;">
+  <li> ROSpy, sensors,  kinematics, motion planning, dynamics and control of serial chain robotic manipulators. </li>
+  <li> Final project controlling a robotic arm to execute chess moves.<a href="https://www.youtube.com/watch?v=lvb7jT5uduM"> Link to project demo.</a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Large Language Models in Industry</h4>
 
 <ul style="margin:0 0 5px;">
