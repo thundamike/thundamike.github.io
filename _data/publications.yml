@@ -10,7 +10,7 @@ main:
     tags: Django, PostgreSQL Mapbox API, Strava API, OAuth
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/thundamike/routely
-    website: https://routely.vercel.app
+    demo: https://routely.vercel.app
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/strava.png
     #notes: Early Accept
