@@ -5,12 +5,12 @@
 main:
 
   - title: Suggesting Routes for Strava Users
-    desc: Filter community-generated routes based on distance, elevation gain, and location → We find the most relevant routes. Users are able to login through their Strava account.
+    desc: Web app to filter community-generated routes based on distance, elevation gain, and location → We find the most relevant routes. Users are able to login and upload data through their Strava account.
     #conference_short: MICCAI
-    tags: Django, Mapbox API, Strava API, OAuth
+    tags: Django, PostgreSQL Mapbox API, Strava API, OAuth
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/thundamike/create_my_runs
-    demo: https://www.loom.com/share/528b9fd623864264a059c3fce8a66e65?sid=2860d0d2-4272-4878-9413-6e03e79367eb
+    code: https://github.com/thundamike/routely
+    website: https://routely.vercel.app
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/strava.png
     #notes: Early Accept
